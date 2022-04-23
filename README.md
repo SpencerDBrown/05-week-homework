@@ -1,1 +1,4 @@
 # 05-week-homework
+Link: https://spencerdbrown.github.io/05-week-homework/
+
+This weeks homework was to construct a dayily planner/scheduler. With the ability to tell the current hour of the work day as well as emphasize the hours that have passed and the ones to come. A reactive planner that will take whatever is written in the text field, and is saved to local storage when the save button is hit. This one took me a few tries throughout the week, I ended up re-writing it all yesterday because I realized I made it so incredibly hard for myself with my initial attempt. After taking an hour and writing a distinct outline of the tasks required of the READ.me I was able to tackle each objective thouroughly. The end result looks much prettier than the road getting here, there were a lot of errors initially (pretty much all of them being user error and just minor syntax mistakes). 
